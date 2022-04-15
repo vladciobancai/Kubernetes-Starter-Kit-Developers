@@ -1,6 +1,6 @@
-# Day-2 Operations-ready DigitalOcean Kubernetes (DOKS) for Developers 
+# Day-2 Operations-ready DigitalOcean Kubernetes (DOKS) for Developers
 
-[Webinar video from 9/28/2021](https://www.youtube.com/watch?v=C48gUklH1DU&t=5s) 
+[Webinar video from 9/28/2021](https://www.youtube.com/watch?v=C48gUklH1DU&t=5s)
 
 [Automating GitOps and Continuous Delivery With DigitalOcean Kubernetes](https://www.youtube.com/watch?v=zNfbjpOQRxQ&t=3s)
 
